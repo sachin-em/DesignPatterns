@@ -1,0 +1,38 @@
+# Visual Studio temporary/generated files
+*.suo
+*.user
+*.vspscc
+*.vssscc
+.vs
+**/bin/
+**/obj/
+**/packages/
+
+# User-specific files
+*.userprefs
+
+# Build products
+*.exe
+*.dll
+*.pdb
+
+# Log files
+*.log
+
+# Test Results
+*.trx
+
+# Local History
+.localhistory/
+
+# VS Code
+.vscode/
+
+# Rider
+.idea/
+
+# JetBrains Rider
+*.sln.iml
+
+# NuGet Package Restore
+**/packages/
